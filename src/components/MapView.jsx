@@ -26,8 +26,11 @@ export const MapView = () => {
     <div className="map-page">
       <div className="left-section">
       <></>
-        <></>
-        <></>
+        
+        <h1></h1>
+        <h1></h1>
+        <h1></h1>
+        
         <div className="search-bar">
           <input type="text" placeholder="Search" className="text" />
           <FontAwesomeIcon icon={faSearch} className="search-icon" />
@@ -41,7 +44,8 @@ export const MapView = () => {
         <FontAwesomeIcon icon={faSun} className="weather-icon" />
           <h1> {clima}</h1>
         </div>
-        <p>Armenia es la capital del departamento de Quindío, en el oeste de Colombia. Está enmarcada por la cordillera de los Andes y su centro es la Plaza de Bolívar, con su moderna catedral triangular de La Inmaculada Concepción. El frondoso Parque de la Vida tiene un lago bordeado de árboles y una pista de patinaje sobre ruedas. En el límite noreste de la ciudad, el Museo del Oro de Quimbaya exhibe antiguos artefactos de este material.</p>
+        <p>Armenia es la capital del departamento de Quindío, en el oeste de Colombia. Está enmarcada por la cordillera de los Andes y su centro es la Plaza de Bolívar, con su moderna catedral triangular de La Inmaculada Concepción. El frondoso Parque de la Vida tiene un lago bordeado de árboles y una pista de patinaje sobre ruedas. </p>
+        <h1></h1>
         <h1></h1>
         <h1></h1>
         
